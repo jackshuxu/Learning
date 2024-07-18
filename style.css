@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+dl {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.odd {
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.even {
+  color: rgb(255, 240, 240);
+  font-family: Arial, Helvetica, sans-serif;
+}
+pre {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}

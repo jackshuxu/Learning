@@ -1,0 +1,9 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-size: 3em;
+}
+#genBtn {
+  font-size: 1em;
+  padding: 2% 10%;
+}
